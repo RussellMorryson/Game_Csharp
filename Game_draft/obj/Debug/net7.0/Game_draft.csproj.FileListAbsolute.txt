@@ -1,0 +1,15 @@
+/workspaces/Game_Csharp/Game_draft/obj/Debug/net7.0/Game_draft.csproj.AssemblyReference.cache
+/workspaces/Game_Csharp/Game_draft/obj/Debug/net7.0/Game_draft.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Game_Csharp/Game_draft/obj/Debug/net7.0/Game_draft.AssemblyInfoInputs.cache
+/workspaces/Game_Csharp/Game_draft/obj/Debug/net7.0/Game_draft.AssemblyInfo.cs
+/workspaces/Game_Csharp/Game_draft/obj/Debug/net7.0/Game_draft.csproj.CoreCompileInputs.cache
+/workspaces/Game_Csharp/Game_draft/bin/Debug/net7.0/Game_draft
+/workspaces/Game_Csharp/Game_draft/bin/Debug/net7.0/Game_draft.deps.json
+/workspaces/Game_Csharp/Game_draft/bin/Debug/net7.0/Game_draft.runtimeconfig.json
+/workspaces/Game_Csharp/Game_draft/bin/Debug/net7.0/Game_draft.dll
+/workspaces/Game_Csharp/Game_draft/bin/Debug/net7.0/Game_draft.pdb
+/workspaces/Game_Csharp/Game_draft/obj/Debug/net7.0/Game_draft.dll
+/workspaces/Game_Csharp/Game_draft/obj/Debug/net7.0/refint/Game_draft.dll
+/workspaces/Game_Csharp/Game_draft/obj/Debug/net7.0/Game_draft.pdb
+/workspaces/Game_Csharp/Game_draft/obj/Debug/net7.0/Game_draft.genruntimeconfig.cache
+/workspaces/Game_Csharp/Game_draft/obj/Debug/net7.0/ref/Game_draft.dll
